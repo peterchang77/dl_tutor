@@ -20,18 +20,18 @@ Week 7: Considerations for Medical Object Localization\
 Week 8: Class Imbalance\
 Week 9: Data Heterogeneity and Small Cohorts\
 Week 10: FDA Regulations and Deployment\
-Week 11: Finals\
+Week 11: Finals
 
 *Assignments*
 
-Week 1: Environment Setup
-Week 2: Linear Classifier and MLP (MNIST)
-Week 3: Convolutional Neural Network (CIFAR-10)
-Week 4: Series Identification
-Week 5: Organ Segmentation
-Week 6: Midterm Project
-Week 7: Lesion Localization
-Week 8: Lesion Segmentation
-Week 9: Disease Characterization - PIRADS
-Week 10: None
+Week 1: Environment Setup\
+Week 2: Linear Classifier and MLP (MNIST)\
+Week 3: Convolutional Neural Network (CIFAR-10)\
+Week 4: Series Identification\
+Week 5: Organ Segmentation\
+Week 6: Midterm Project\
+Week 7: Lesion Localization\
+Week 8: Lesion Segmentation\
+Week 9: Disease Characterization\
+Week 10: None\
 Week 11: Final Project
