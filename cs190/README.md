@@ -10,17 +10,17 @@ All software used in this coursework is open-source and free of charge. Assignme
 
 *Classes*
 
-Week 1: Introduction to Machine Learning and Tensorflow 2.0
-Week 2: Neural Networks and Optimization
-Week 3: Convolutional Neural Networks
-Week 4: Modern Architectures and Medical Imaging Data
-Week 5: Considerations for Medical Image Segmentation 
-Week 6: Manuscript Preparation and Statistics
-Week 7: Considerations for Medical Object Localization
-Week 8: Class Imbalance
-Week 9: Data Heterogeneity and Small Cohorts
-Week 10: FDA Regulations and Deployment
-Week 11: Finals 
+Week 1: Introduction to Machine Learning and Tensorflow 2.0\
+Week 2: Neural Networks and Optimization\
+Week 3: Convolutional Neural Networks\
+Week 4: Modern Architectures and Medical Imaging Data\
+Week 5: Considerations for Medical Image Segmentation\
+Week 6: Manuscript Preparation and Statistics\
+Week 7: Considerations for Medical Object Localization\
+Week 8: Class Imbalance\
+Week 9: Data Heterogeneity and Small Cohorts\
+Week 10: FDA Regulations and Deployment\
+Week 11: Finals\
 
 *Assignments*
 
