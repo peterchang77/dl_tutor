@@ -6,3 +6,5 @@ __pycache__
 *.hdf5
 *.csv
 *.zip
+.ipynb_checkpoints/
+private/
