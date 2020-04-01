@@ -24,7 +24,7 @@ Week 11: Finals
 
 *Assignments*
 
-Week 1: Environment Setup\
+Week 1: Linear Regression ([tutorial](https://bit.ly/2WYCk46), [assignment](https://bit.ly/341Fm9n))\
 Week 2: Linear Classifier and MLP (MNIST)\
 Week 3: Convolutional Neural Network (CIFAR-10)\
 Week 4: Series Identification\
