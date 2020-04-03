@@ -10,7 +10,10 @@ All software used in this coursework is open-source and free of charge. Assignme
 
 *Classes*
 
-Week 1: Introduction to Machine Learning and Tensorflow 2.0\
+Week 1: Introduction to Machine Learning and Tensorflow 2.0
+* Lecture 01: [video](https://uci.yuja.com/V/Video?v=848900&node=3563594&a=887832670&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=67291&node=3563499&a=375343629&autoplay=1)
+* Lecture 02: [video](https://uci.yuja.com/V/Video?v=864040&node=3629347&a=1644694135&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=68581&node=3629581&a=1720089273&autoplay=1)
+
 Week 2: Neural Networks and Optimization\
 Week 3: Convolutional Neural Networks\
 Week 4: Modern Architectures and Medical Imaging Data\
