@@ -8,6 +8,8 @@ All software used in this coursework is open-source and free of charge. Assignme
 
 ## Schedule
 
+**Note:** Links below will populate over the course of the spring 2020 quarter.
+
 *Classes*
 
 Week 1: Introduction to Machine Learning and Tensorflow 2.0
