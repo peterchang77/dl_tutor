@@ -17,7 +17,13 @@ Week 1: Introduction to Machine Learning and Tensorflow 2.0
 * Lecture 02: [video](https://uci.yuja.com/V/Video?v=864040&node=3629347&a=1644694135&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=68581&node=3629581&a=1720089273&autoplay=1)
 
 Week 2: Neural Networks and Optimization\
+* Lecture 03: [video](https://uci.yuja.com/V/Video?v=932494&node=3796598&a=453281412&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=72235&node=3794996&a=1053589366&autoplay=1)
+* Lecture 04: [video](https://uci.yuja.com/V/Video?v=961503&node=3846763&a=2115533999&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=961517&node=3846781&a=1469992849&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=73689&node=3849269&a=1407237966&autoplay=1)
+
 Week 3: Convolutional Neural Networks\
+* Lecture 05: [video](https://uci.yuja.com/V/Video?v=994105&node=3907848&a=159815423&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=75395&node=3908720&a=79585592&autoplay=1)
+* Lecture 06: [video](https://uci.yuja.com/V/Video?v=1010110&node=3940631&a=74127933&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1010853&node=3941967&a=1043490730&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=76643&node=3941638&a=14751449&autoplay=1)
+
 Week 4: Modern Architectures and Medical Imaging Data\
 Week 5: Considerations for Medical Image Segmentation\
 Week 6: Manuscript Preparation and Statistics\
