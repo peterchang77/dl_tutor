@@ -43,7 +43,7 @@ Week 2: Linear Classifier and MLP (MNIST; [tutorial](https://bit.ly/3c1vWgP), [a
 Week 3: Convolutional Neural Network (CIFAR-10; [tutorial](https://bit.ly/3cjsaQ6), [assignment](https://bit.ly/3eoHsVE))\
 Week 4: Series Identification ([tutorial](https://bit.ly/34X9ByE), [assignment](https://bit.ly/2VtxkU3))\
 Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](https://bit.ly/3cXk8wC))\
-Week 6: Midterm Project\
+Week 6: Midterm Project (tutorial, [assignment](https://bit.ly/35ljC91))\
 Week 7: Lesion Localization\
 Week 8: Lesion Segmentation\
 Week 9: Disease Characterization\
