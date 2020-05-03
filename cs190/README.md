@@ -28,7 +28,10 @@ Week 4: Modern Architectures and Medical Imaging Data
 * Lecture 07: [video](https://uci.yuja.com/V/Video?v=1038035&node=3998128&a=2082811682&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=79163&node=3998652&a=1012191650&autoplay=1)
 * Lecture 08: [video](https://uci.yuja.com/V/Video?v=1050374&node=4025930&a=1672496978&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1050386&node=4025949&a=1227736013&autoplay=1) [slides](https://uci.yuja.com/V/MediaFile?mediaFile=80663&node=4027110&a=1463227140&autoplay=1)
 
-Week 5: Considerations for Medical Image Segmentation\
+Week 5: Considerations for Medical Image Segmentation
+* Lecture 09: [video](https://uci.yuja.com/V/Video?v=1071858&node=4071518&a=939172975&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=83917&node=4101378&a=894696511&autoplay=1)
+* Lecture 10: [video](https://uci.yuja.com/V/Video?v=1085048&node=4100971&a=365910467&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1085050&node=4100974&a=149578742&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=83918&node=4101379&a=1379874450&autoplay=1)
+
 Week 6: Manuscript Preparation and Statistics\
 Week 7: Considerations for Medical Object Localization\
 Week 8: Class Imbalance\
@@ -43,7 +46,7 @@ Week 2: Linear Classifier and MLP (MNIST; [tutorial](https://bit.ly/3c1vWgP), [a
 Week 3: Convolutional Neural Network (CIFAR-10; [tutorial](https://bit.ly/3cjsaQ6), [assignment](https://bit.ly/3eoHsVE))\
 Week 4: Series Identification ([tutorial](https://bit.ly/34X9ByE), [assignment](https://bit.ly/2VtxkU3))\
 Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](https://bit.ly/3cXk8wC))\
-Week 6: Midterm Project (tutorial, [assignment](https://bit.ly/35ljC91))\
+Week 6: Midterm Project ([tutorial](https://bit.ly/2KVhawz), [assignment](https://bit.ly/35ljC91))\
 Week 7: Lesion Localization\
 Week 8: Lesion Segmentation\
 Week 9: Disease Characterization\
