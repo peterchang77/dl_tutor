@@ -49,7 +49,7 @@ Week 3: Convolutional Neural Network (CIFAR-10; [tutorial](https://bit.ly/3cjsaQ
 Week 4: Series Identification ([tutorial](https://bit.ly/34X9ByE), [assignment](https://bit.ly/2VtxkU3))\
 Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](https://bit.ly/3cXk8wC))\
 Week 6: Midterm Project ([tutorial](https://bit.ly/2KVhawz), [assignment](https://bit.ly/35ljC91))\
-Week 7: Lesion Localization\
+Week 7: Box Localization ([tutorial](https://bit.ly/2YX0o8F), [assignment](https://bit.ly/3cwsmMl))\
 Week 8: Lesion Segmentation\
 Week 9: Disease Characterization\
 Week 10: None\
