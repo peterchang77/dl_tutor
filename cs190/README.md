@@ -50,7 +50,7 @@ Week 4: Series Identification ([tutorial](https://bit.ly/34X9ByE), [assignment](
 Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](https://bit.ly/3cXk8wC))\
 Week 6: Midterm Project ([tutorial](https://bit.ly/2KVhawz), [assignment](https://bit.ly/35ljC91))\
 Week 7: Box Localization ([tutorial](https://bit.ly/2YX0o8F), [assignment](https://bit.ly/3cwsmMl))\
-Week 8: Lesion Segmentation\
+Week 8: Lesion Segmentation ([tutorial](https://bit.ly/2XihA67), [assignment](https://bit.ly/2WLOtZR))\
 Week 9: Disease Characterization\
 Week 10: None\
 Week 11: Final Project
