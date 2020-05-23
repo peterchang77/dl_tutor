@@ -39,7 +39,10 @@ Week 7: Considerations for Medical Object Localization
 * Lecture 13: [video](https://uci.yuja.com/V/Video?v=1129820&node=4210652&a=963840776&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=90047&node=4210769&a=1499892594&autoplay=1),
 * Lecture 14: [video](https://uci.yuja.com/V/Video?v=1138494&node=4234176&a=895944868&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=94784&node=4272549&a=1750681740&autoplay=1)
 
-Week 8: Class Imbalance\
+Week 8: Class Imbalance
+* Lecture 15: [video](https://uci.yuja.com/V/Video?v=1154435&node=4272546&a=992548745&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=94783&node=4272548&a=1754479284&autoplay=1)
+* Lecture 16: [video](https://uci.yuja.com/V/Video?v=1164342&node=4293893&a=2043067867&autoplay=1)
+
 Week 9: Data Heterogeneity and Small Cohorts\
 Week 10: FDA Regulations and Deployment\
 Week 11: Finals
