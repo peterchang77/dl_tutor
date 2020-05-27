@@ -57,6 +57,6 @@ Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](htt
 Week 6: Midterm Project ([tutorial](https://bit.ly/2KVhawz), [assignment](https://bit.ly/35ljC91))\
 Week 7: Box Localization ([tutorial](https://bit.ly/2YX0o8F), [assignment](https://bit.ly/3cwsmMl))\
 Week 8: Lesion Segmentation ([tutorial](https://bit.ly/2XihA67), [assignment](https://bit.ly/2WLOtZR))\
-Week 9: Disease Characterization\
+Week 9: Disease Characterization ([tutorial](https://bit.ly/3gtw3Vz), [assignment](https://bit.ly/3evLlaF))\
 Week 10: None\
 Week 11: Final Project
