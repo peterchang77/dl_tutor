@@ -43,7 +43,9 @@ Week 8: Class Imbalance
 * Lecture 15: [video](https://uci.yuja.com/V/Video?v=1154435&node=4272546&a=992548745&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=94783&node=4272548&a=1754479284&autoplay=1)
 * Lecture 16: [video](https://uci.yuja.com/V/Video?v=1164342&node=4293893&a=2043067867&autoplay=1)
 
-Week 9: Data Heterogeneity and Small Cohorts\
+Week 9: Data Heterogeneity and Small Cohorts
+* Lecture 18: [video](https://uci.yuja.com/V/Video?v=1178690&node=4346718&a=1033281825&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1178694&node=4346726&a=1054781334&autoplay=1) [slides](https://uci.yuja.com/V/MediaFile?mediaFile=96432&node=4346813&a=320730060&autoplay=1)
+
 Week 10: FDA Regulations and Deployment\
 Week 11: Finals
 
@@ -59,4 +61,4 @@ Week 7: Box Localization ([tutorial](https://bit.ly/2YX0o8F), [assignment](https
 Week 8: Lesion Segmentation ([tutorial](https://bit.ly/2XihA67), [assignment](https://bit.ly/2WLOtZR))\
 Week 9: Disease Characterization ([tutorial](https://bit.ly/3gtw3Vz), [assignment](https://bit.ly/3evLlaF))\
 Week 10: None\
-Week 11: Final Project
+Week 11: Final Project ([tutorial](https://bit.ly/2BiXZeR), [assignment](https://bit.ly/2ZPtS8J))
