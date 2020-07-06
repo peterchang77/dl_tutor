@@ -4,7 +4,7 @@ This repository contains a list of additional recommended online resources for g
 
 # Python
 
-Python is general purpose, interpreted programming language that is widely used for data science. While one can use Python to develop many different types of applications, for the purposes of machine learning, it is recommended simply to focus on key principles and techniques related to *data science*. The following (partial) list provides several key recommeneded generic and data science specific resources: 
+Python is general purpose, interpreted programming language that is widely used for data science. While one can use Python to develop many different types of applications, for the purposes of machine learning, it is recommended simply to focus on key principles and techniques related to *data science*. The following (partial) list provides several key recommended generic and data science specific resources: 
 
 ## Free
 
