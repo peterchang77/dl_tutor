@@ -6,11 +6,17 @@ All hands-on coding portions of the workshop are performed using Google Colabora
 
 # Tutorials
 
+All raw code and notebooks used for these tutorials are availabe within this repository. In addition, the following links directly load the specified notebook archived in GitHub within the Google Colaboratory platform.
+
+## Google Colab Links
+
 * Introduction to Tensorflow 2.0 and Keras: [Google Colab link](https://bit.ly/2VSYaop)
 * CNN classification algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2D9ZBrX)
 * CNN segmentation algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2VQMWk9)
 
-
-Note these tutorials represent abbreviated educational material that provide a focused overview of key concepts. If you are interested, a full 10-week curriculum targeted towards upper-level undergraduate or graduate-level CS students is available at this [link](../cs190/README.md) 
+Note these tutorials represent abbreviated educational material that provide a focused overview of key concepts. If you are interested, a full 10-week curriculum targeted towards upper-level undergraduate or graduate-level CS students is available online (no cost) at this [link](../cs190/README.md) 
 
 # Resources
+
+* Additional online resources: [link](../resources/README.md)
+* Setting up a local development environment with Docker: [link](www.github.com/peterchang77/install) 
