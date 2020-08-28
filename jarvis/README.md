@@ -8,3 +8,4 @@ The Jarvis package is modular by design, allowing for independent use of specifi
 
 * How to use and customize the Jarvis data `Client()` object: [link](https://colab.research.google.com/github/peterchang77/dl_tutor/blob/master/jarvis/notebooks/client/client-use.ipynb)
 * How to create a new Jarvis data `Client()`: link 
+* How to optimize hyperparameter search and training loops: [link](https://colab.research.google.com/github/peterchang77/dl_tutor/blob/master/jarvis/notebooks/params/params.ipynb)
