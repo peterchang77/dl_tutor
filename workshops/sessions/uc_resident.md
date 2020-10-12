@@ -12,20 +12,20 @@ For a more comprehensive overview, a full 10-week curriculum targeted towards up
 
 ### October 21, 2020 (1:00 - 4:30 PM)
 
-**Part I | 1:00 - 2:00 PM (60 min)**
-Survey of Clinical Applications (didactic)
+**Part I | 1:00 - 2:00 PM (60 min)**\
+Survey of Clinical Applications (didactic)\
 Intro to Python Programming (coding)
 
 *Break (15 min)*
 
-**Part II | 2:15-3:15 PM (60 min)**
-Basic Principles of Machine Learning (didactic)
+**Part II | 2:15-3:15 PM (60 min)**\
+Basic Principles of Machine Learning (didactic)\
 Intro to Tensorflow and Keras (coding)
 
 *Break (15 min)*
 
-**Part III | 3:30-4:30 PM (60 min)**
-Basic Principles of Neural Networks (didatic)
+**Part III | 3:30-4:30 PM (60 min)**\
+Basic Principles of Neural Networks (didatic)\
 Intro to Neural Networks (coding)
 
 ## Zoom Information
