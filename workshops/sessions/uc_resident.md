@@ -14,7 +14,7 @@ For a more comprehensive overview, a full 10-week curriculum targeted towards up
 
 **Part I | 1:00 - 2:00 PM (60 min)**\
 Survey of Clinical Applications (didactic)\
-Intro to Python Programming (coding; [Google Colab Link]())
+Intro to Python Programming (coding; [Google Colab Link](https://bit.ly/3nFqo25))
 
 *Break (15 min)*
 
