@@ -14,19 +14,19 @@ For a more comprehensive overview, a full 10-week curriculum targeted towards up
 
 **Part I | 1:00 - 2:00 PM (60 min)**\
 Survey of Clinical Applications (didactic)\
-Intro to Python Programming (coding)
+Intro to Python Programming (coding; [Google Colab Link]())
 
 *Break (15 min)*
 
 **Part II | 2:15-3:15 PM (60 min)**\
 Basic Principles of Machine Learning (didactic)\
-Intro to Tensorflow and Keras (coding)
+Intro to Tensorflow and Keras (coding; [Google Colab Link](https://bit.ly/2WYCk46))
 
 *Break (15 min)*
 
 **Part III | 3:30-4:30 PM (60 min)**\
 Basic Principles of Neural Networks (didatic)\
-Intro to Neural Networks (coding)
+Intro to Neural Networks (coding; [Google Colab Link](https://bit.ly/3c1vWgP))
 
 ## Zoom Information
 

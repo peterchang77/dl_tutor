@@ -12,8 +12,8 @@ All raw code and notebooks used for these tutorials are availabe within this rep
 
 * Introduction to Python Programming [Google Colab link]()
 * Introduction to Tensorflow 2.0 and Keras: [Google Colab link](https://bit.ly/2VSYaop)
-* Building a linear regression model [Google Colab link]()
-* Building a multilayer perceptron for digit recognition on MNIST data [Google Colab link]()
+* Building a linear regression model [Google Colab link](https://bit.ly/2WYCk46)
+* Building a multilayer perceptron for digit recognition on MNIST data [Google Colab link](https://bit.ly/3c1vWgP)
 * CNN classification algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2D9ZBrX)
 * CNN segmentation algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2VQMWk9)
 
