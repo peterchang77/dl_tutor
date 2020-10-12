@@ -10,11 +10,21 @@ All raw code and notebooks used for these tutorials are availabe within this rep
 
 ## Google Colab Links
 
+* Introduction to Python Programming [Google Colab link]()
 * Introduction to Tensorflow 2.0 and Keras: [Google Colab link](https://bit.ly/2VSYaop)
+* Building a linear regression model [Google Colab link]()
+* Building a multilayer perceptron for digit recognition on MNIST data [Google Colab link]()
 * CNN classification algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2D9ZBrX)
 * CNN segmentation algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2VQMWk9)
 
 Note these tutorials represent abbreviated educational material that provide a focused overview of key concepts. If you are interested, a full 10-week curriculum targeted towards upper-level undergraduate or graduate-level CS students is available online (no cost) at this [link](../cs190/README.md).
+
+# Live Sessions
+
+* ASNR 2020 [details]()
+* ISMRM 2020 [details]()
+* UC Radiology Resident AI Workshop 2020 [details](./sessions/uc_resident.md)
+* RSNA 2020 [details]()
 
 # Resources
 
