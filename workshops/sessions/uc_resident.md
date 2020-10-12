@@ -1,6 +1,6 @@
 # UC Radiology Resident AI Workshop | 2020
 
-Over the past several years, deep learning neural networks have become increasingly pervasive within the medical imaging world. This hands-on workshop is designed as an introductory primer for radiology residents (and faculty) who are motivated to learn the technical skills for building deep learning models but who have minimal if any previous knowledge. 
+Over the past several years, deep learning neural networks have become increasingly pervasive within the medical imaging world. This hands-on workshop is designed as an introductory primer for radiology residents (and faculty) who are motivated to learn the technical skills for building deep learning models but who have minimal if any previous knowledge. The live session will be hosted via Zoom (see information below for login details). Video recordings of all sessions will be posted on this repository after the workshop is complete. 
 
 The workshop is comprised of a combination of didactic lectures and hands-on Python coding sessions. All coding portions are performed using Google Colaboratory, a free instance of the Jupyter Notebook (iPython) IDE hosted by Google Cloud. A Gmail account will be required to login and use this otherwise free service. As needed GPU-backed instances may be used on demand. No local software installation or specialized hardware is needed; all coding is performed directly in a web browser. 
 
