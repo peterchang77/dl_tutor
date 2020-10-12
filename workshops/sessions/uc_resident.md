@@ -32,27 +32,27 @@ Intro to Neural Networks (coding)
 
 #### Join Zoom Meeting
 
-Phone one-tap:
+Phone one-tap:\
 US: +16699009128,,96663539142#,,,,,,0#,,055056# or +12532158782,,96663539142#,,,,,,0#,,055056#
 
-Meeting URL:
+Meeting URL:\
 https://ucihealth.zoom.us/j/96663539142?pwd=Z3I4TzRnV1Eva3JnR05HVjhKYmJNUT09
 
-Meeting ID:
+Meeting ID:\
 966 6353 9142
 
-Passcode:
+Passcode:\
 055056
 
 #### Join by Telephone
 
 For higher quality, dial a number based on your current location.
 
-Dial:
+Dial:\
 US: +1 669 900 9128 or +1 253 215 8782 or +1 346 248 7799 or +1 301 715 8592 or +1 312 626 6799 or +1 646 558 8656
 
-Meeting ID:
+Meeting ID:\
 966 6353 9142
 
-Passcode:
+Passcode:\
 055056
