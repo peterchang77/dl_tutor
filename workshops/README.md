@@ -10,7 +10,7 @@ All raw code and notebooks used for these tutorials are availabe within this rep
 
 ## Google Colab Links
 
-* Introduction to Python Programming I [Google Colab link](https://bit.ly/3c1vWgP)
+* Introduction to Python Programming I [Google Colab link](https://bit.ly/3nFqo25)
 * Introduction to Python Programming II 
 * Introduction to Python Programming III 
 * Introduction to Tensorflow 2.0 and Keras: [Google Colab link](https://bit.ly/2VSYaop)

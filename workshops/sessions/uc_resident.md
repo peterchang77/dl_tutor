@@ -30,29 +30,6 @@ Intro to Neural Networks (coding; [Google Colab Link](https://bit.ly/3c1vWgP))
 
 ## Zoom Information
 
-#### Join Zoom Meeting
-
-Phone one-tap:\
-US: +16699009128,,96663539142#,,,,,,0#,,055056# or +12532158782,,96663539142#,,,,,,0#,,055056#
-
-Meeting URL:\
-https://ucihealth.zoom.us/j/96663539142?pwd=Z3I4TzRnV1Eva3JnR05HVjhKYmJNUT09
-
-Meeting ID:\
-966 6353 9142
-
-Passcode:\
-055056
-
-#### Join by Telephone
-
-For higher quality, dial a number based on your current location.
-
-Dial:\
-US: +1 669 900 9128 or +1 253 215 8782 or +1 346 248 7799 or +1 301 715 8592 or +1 312 626 6799 or +1 646 558 8656
-
-Meeting ID:\
-966 6353 9142
-
-Passcode:\
-055056
+**UPDATE**: Due to an overwhelming response, we require all attendees to register for this conference with their name and email address at the below link.  You will then be sent your personalized zoom link for the conference. \
+ 
+https://uci.zoom.us/webinar/register/WN_w9XQoA93SXS0KHKSlFOK0w
