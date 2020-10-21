@@ -10,26 +10,26 @@ For a more comprehensive overview, a full 10-week curriculum targeted towards up
 
 ## Schedule
 
-### October 21, 2020 (1:00 - 4:30 PM)
+### October 21, 2020 (1:00 - 4:00 PM)
 
-**Part I | 1:00 - 2:00 PM (60 min)**\
+**Part I | 1:00 - 1:50 PM (50 min)**\
 Survey of Clinical Applications (didactic)\
 Intro to Python Programming (coding; [Google Colab Link](https://bit.ly/3nFqo25))
 
-*Break (15 min)*
+*Break (10 min)*
 
-**Part II | 2:15-3:15 PM (60 min)**\
+**Part II | 2:00 - 2:50 PM (50 min)**\
 Basic Principles of Machine Learning (didactic)\
 Intro to Tensorflow and Keras (coding; [Google Colab Link](https://bit.ly/2WYCk46))
 
-*Break (15 min)*
+*Break (10 min)*
 
-**Part III | 3:30-4:30 PM (60 min)**\
+**Part III | 3:00 - 3:50 PM (50 min)**\
 Basic Principles of Neural Networks (didatic)\
 Intro to Neural Networks (coding; [Google Colab Link](https://bit.ly/3c1vWgP))
 
 ## Zoom Information
 
-**UPDATE**: Due to an overwhelming response, we require all attendees to register for this conference with their name and email address at the below link.  You will then be sent your personalized zoom link for the conference. \
+**UPDATE**: Due to an overwhelming response, we require all attendees to register for this conference with their name and email address at the below link.  You will then be sent your personalized zoom link for the conference.
  
 https://uci.zoom.us/webinar/register/WN_w9XQoA93SXS0KHKSlFOK0w
