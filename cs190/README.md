@@ -12,8 +12,8 @@ For Spring quarter 2021, class will be broadcast live via Zoom on Mondays and We
 
 ### Zoom Details
 
-Meeting URL: https://ucihealth.zoom.us/j/93897386565?pwd=dWhLc2JGejNuZDZsM1dUbTN3eTEzdz09
-Meeting ID: 938 9738 6565
+Meeting URL: https://ucihealth.zoom.us/j/93897386565?pwd=dWhLc2JGejNuZDZsM1dUbTN3eTEzdz09 \
+Meeting ID: 938 9738 6565 \
 Password: 735160
 
 ## Schedule
