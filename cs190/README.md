@@ -8,57 +8,36 @@ All software used in this coursework is open-source and free of charge. Assignme
 
 ## Schedule
 
-**Note:** Links below will populate over the course of the spring 2020 quarter.
+**Note:** Links below will populate over the course of the spring 2021 quarter. 
+
+For archived materials from previous quarters:
+
+* Spring 2020 ([link](./spring_2020))
 
 *Classes*
 
-Week 1: Introduction to Machine Learning and Tensorflow 2.0
-* Lecture 01: [video](https://uci.yuja.com/V/Video?v=848900&node=3563594&a=887832670&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=67291&node=3563499&a=375343629&autoplay=1)
-* Lecture 02: [video](https://uci.yuja.com/V/Video?v=864040&node=3629347&a=1644694135&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=68581&node=3629581&a=1720089273&autoplay=1)
-
-Week 2: Neural Networks and Optimization
-* Lecture 03: [video](https://uci.yuja.com/V/Video?v=932494&node=3796598&a=453281412&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=72235&node=3794996&a=1053589366&autoplay=1)
-* Lecture 04: [video](https://uci.yuja.com/V/Video?v=961503&node=3846763&a=2115533999&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=961517&node=3846781&a=1469992849&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=73689&node=3849269&a=1407237966&autoplay=1)
-
-Week 3: Convolutional Neural Networks
-* Lecture 05: [video](https://uci.yuja.com/V/Video?v=994105&node=3907848&a=159815423&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=75395&node=3908720&a=79585592&autoplay=1)
-* Lecture 06: [video](https://uci.yuja.com/V/Video?v=1010110&node=3940631&a=74127933&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1010853&node=3941967&a=1043490730&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=76643&node=3941638&a=14751449&autoplay=1)
-
-Week 4: Modern Architectures and Medical Imaging Data
-* Lecture 07: [video](https://uci.yuja.com/V/Video?v=1038035&node=3998128&a=2082811682&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=79163&node=3998652&a=1012191650&autoplay=1)
-* Lecture 08: [video](https://uci.yuja.com/V/Video?v=1050374&node=4025930&a=1672496978&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1050386&node=4025949&a=1227736013&autoplay=1) [slides](https://uci.yuja.com/V/MediaFile?mediaFile=80663&node=4027110&a=1463227140&autoplay=1)
-
-Week 5: Considerations for Medical Image Segmentation
-* Lecture 09: [video](https://uci.yuja.com/V/Video?v=1071858&node=4071518&a=939172975&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=83917&node=4101378&a=894696511&autoplay=1)
-* Lecture 10: [video](https://uci.yuja.com/V/Video?v=1085048&node=4100971&a=365910467&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1085050&node=4100974&a=149578742&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=83918&node=4101379&a=1379874450&autoplay=1)
-
-Week 6: Manuscript Preparation and Statistics
-* Lecture 11: [video](https://uci.yuja.com/V/Video?v=1104297&node=4144910&a=1114958607&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=85869&node=4145039&a=1238458365&autoplay=1)
-
-Week 7: Considerations for Medical Object Localization
-* Lecture 13: [video](https://uci.yuja.com/V/Video?v=1129820&node=4210652&a=963840776&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=90047&node=4210769&a=1499892594&autoplay=1),
-* Lecture 14: [video](https://uci.yuja.com/V/Video?v=1138494&node=4234176&a=895944868&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=94784&node=4272549&a=1750681740&autoplay=1)
-
-Week 8: Class Imbalance
-* Lecture 15: [video](https://uci.yuja.com/V/Video?v=1154435&node=4272546&a=992548745&autoplay=1), [slides](https://uci.yuja.com/V/MediaFile?mediaFile=94783&node=4272548&a=1754479284&autoplay=1)
-* Lecture 16: [video](https://uci.yuja.com/V/Video?v=1164342&node=4293893&a=2043067867&autoplay=1)
-
-Week 9: Data Heterogeneity and Small Cohorts
-* Lecture 18: [video](https://uci.yuja.com/V/Video?v=1178690&node=4346718&a=1033281825&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=1178694&node=4346726&a=1054781334&autoplay=1) [slides](https://uci.yuja.com/V/MediaFile?mediaFile=96432&node=4346813&a=320730060&autoplay=1)
-
-Week 10: FDA Regulations and Deployment\
+Week 1: Introduction to Machine Learning and Tensorflow 2.0 \
+Week 2: Neural Networks and Optimization \
+Week 3: Convolutional Neural Networks \
+Week 4: Modern Architectures and Medical Imaging Data \
+Week 5: Considerations for Medical Image Segmentation \
+Week 6: Manuscript Preparation and Statistics \
+Week 7: Considerations for Medical Object Localization \
+Week 8: Class Imbalance \
+Week 9: Data Heterogeneity and Small Cohorts \
+Week 10: FDA Regulations and Deployment \
 Week 11: Finals
 
 *Assignments*
 
-Week 1: Linear Regression ([tutorial](https://bit.ly/2WYCk46), [assignment](https://bit.ly/341Fm9n))\
-Week 2: Linear Classifier and MLP (MNIST; [tutorial](https://bit.ly/3c1vWgP), [assignment](https://bit.ly/2RoSiB3))\
-Week 3: Convolutional Neural Network (CIFAR-10; [tutorial](https://bit.ly/3cjsaQ6), [assignment](https://bit.ly/3eoHsVE))\
-Week 4: Series Identification ([tutorial](https://bit.ly/34X9ByE), [assignment](https://bit.ly/2VtxkU3))\
-Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](https://bit.ly/3cXk8wC))\
-Week 6: Midterm Project ([tutorial](https://bit.ly/2KVhawz), [assignment](https://bit.ly/35ljC91))\
-Week 7: Box Localization ([tutorial](https://bit.ly/2YX0o8F), [assignment](https://bit.ly/3cwsmMl))\
-Week 8: Lesion Segmentation ([tutorial](https://bit.ly/2XihA67), [assignment](https://bit.ly/2WLOtZR))\
-Week 9: Disease Characterization ([tutorial](https://bit.ly/3gtw3Vz), [assignment](https://bit.ly/3evLlaF))\
-Week 10: None\
-Week 11: Final Project ([tutorial](https://bit.ly/2BiXZeR), [assignment](https://bit.ly/2ZPtS8J))
+Week 1: Linear Regression \
+Week 2: Linear Classifier and MLP (MNIST) \
+Week 3: Convolutional Neural Network (CIFAR-10) \
+Week 4: Series Identification \
+Week 5: Tumor Segmentation \
+Week 6: Midterm Project \
+Week 7: Box Localization \
+Week 8: Lesion Segmentation \
+Week 9: Disease Characterization \
+Week 10: None \
+Week 11: Final Project 
