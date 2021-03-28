@@ -47,7 +47,7 @@ Week 4: Series Identification \
 Week 5: Tumor Segmentation \
 Week 6: Midterm Project \
 Week 7: Box Localization \
-Week 8: Lesion Segmentation \
-Week 9: Disease Characterization \
+Week 8: Small Lesion Segmentation \
+Week 9: Survival Prediction \
 Week 10: None \
 Week 11: Final Project 
