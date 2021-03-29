@@ -26,7 +26,7 @@ For archived materials from previous quarters:
 
 *Classes*
 
-Week 1: Introduction to Machine Learning and Tensorflow 2.1 \
+Week 1: Introduction to Machine Learning and Tensorflow 2.1 ([video](https://uci.yuja.com/V/Video?v=2851891&node=9994332&a=15477036&autoplay=1)) \
 Week 2: Neural Networks and Optimization \
 Week 3: Convolutional Neural Networks \
 Week 4: Modern Architectures and Medical Imaging Data \
