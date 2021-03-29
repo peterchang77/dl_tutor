@@ -34,7 +34,7 @@ Week 5: Considerations for Medical Image Segmentation \
 Week 6: Manuscript Preparation and Statistics \
 Week 7: Considerations for Medical Object Localization \
 Week 8: Class Imbalance \
-Week 9: Data Heterogeneity and Small Cohorts \
+Week 9: Unsupervised and Semi-supervised Learning \
 Week 10: FDA Regulations and Deployment \
 Week 11: Finals
 
