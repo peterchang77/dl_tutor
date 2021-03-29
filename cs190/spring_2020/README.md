@@ -52,13 +52,13 @@ Week 11: Finals
 *Assignments*
 
 Week 1: Linear Regression ([tutorial](https://bit.ly/3m3rULk), [assignment](https://bit.ly/3m3s6dw))\
-Week 2: Linear Classifier and MLP (MNIST; [tutorial](https://bit.ly/3c1vWgP), [assignment](https://bit.ly/2RoSiB3))\
-Week 3: Convolutional Neural Network (CIFAR-10; [tutorial](https://bit.ly/3cjsaQ6), [assignment](https://bit.ly/3eoHsVE))\
-Week 4: Series Identification ([tutorial](https://bit.ly/34X9ByE), [assignment](https://bit.ly/2VtxkU3))\
-Week 5: Organ Segmentation ([tutorial](https://bit.ly/2VR6K7H), [assignment](https://bit.ly/3cXk8wC))\
-Week 6: Midterm Project ([tutorial](https://bit.ly/2KVhawz), [assignment](https://bit.ly/35ljC91))\
-Week 7: Box Localization ([tutorial](https://bit.ly/2YX0o8F), [assignment](https://bit.ly/3cwsmMl))\
-Week 8: Lesion Segmentation ([tutorial](https://bit.ly/2XihA67), [assignment](https://bit.ly/2WLOtZR))\
-Week 9: Disease Characterization ([tutorial](https://bit.ly/3gtw3Vz), [assignment](https://bit.ly/3evLlaF))\
+Week 2: Linear Classifier and MLP (MNIST; [tutorial](https://bit.ly/3m1xHRt), [assignment](https://bit.ly/3cvDZ8F))\
+Week 3: Convolutional Neural Network (CIFAR-10; [tutorial](https://bit.ly/3cx9tv2), [assignment](https://bit.ly/31u6tcA))\
+Week 4: Series Identification ([tutorial](https://bit.ly/3cwvESs), [assignment](https://bit.ly/3rxvuyn))\
+Week 5: Organ Segmentation ([tutorial](https://bit.ly/31sOWBS), [assignment](https://bit.ly/3lYSDsa))\
+Week 6: Midterm Project ([tutorial](https://bit.ly/3rtCXyb), [assignment](https://bit.ly/2Pzw15u))\
+Week 7: Box Localization ([tutorial](https://bit.ly/2PwWnoJ), [assignment](https://bit.ly/3sxLEcm))\
+Week 8: Lesion Segmentation ([tutorial](https://bit.ly/3sAyj34), [assignment](https://bit.ly/3lYcsQB))\
+Week 9: Disease Characterization ([tutorial](https://bit.ly/3sAdFzO), [assignment](https://bit.ly/3csXAGy))\
 Week 10: None\
-Week 11: Final Project ([tutorial](https://bit.ly/2BiXZeR), [assignment](https://bit.ly/2ZPtS8J))
+Week 11: Final Project ([tutorial](https://bit.ly/3cu5hfz), [assignment](https://bit.ly/2O7vW8U))
