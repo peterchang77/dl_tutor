@@ -28,7 +28,7 @@ For archived materials from previous quarters:
 
 Week 1: Introduction to Machine Learning and Tensorflow 2.1 
 * Lecture 01: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=257567&node=10020101&a=319546376&autoplay=1), [video](https://uci.yuja.com/V/Video?v=2851891&node=9994332&a=15477036&autoplay=1)
-* Lecture 02: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=257566&node=10020100&a=81857499&autoplay=1)
+* Lecture 02: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=257566&node=10020100&a=81857499&autoplay=1), [video](https://uci.yuja.com/V/Video?v=2864430&node=10022101&a=1891703983&autoplay=1)
 
 Week 2: Neural Networks and Optimization 
 * Lecture 03: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=259289&node=10068905&a=1957133278&autoplay=1) 
