@@ -31,7 +31,8 @@ Week 1: Introduction to Machine Learning and Tensorflow 2.1
 * Lecture 02: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=257566&node=10020100&a=81857499&autoplay=1), [video](https://uci.yuja.com/V/Video?v=2864430&node=10022101&a=1891703983&autoplay=1)
 
 Week 2: Neural Networks and Optimization 
-* Lecture 03: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=259289&node=10068905&a=1957133278&autoplay=1) 
+* Lecture 03: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=259289&node=10068905&a=1957133278&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2885701&node=10072299&a=1656843959&autoplay=1)
+* Lecture 04: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=260412&node=10094950&a=354774857&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2897710&node=10097735&a=1743114569&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=2897714&node=10097742&a=1514700564&autoplay=1)
 
 Week 3: Convolutional Neural Networks \
 Week 4: Modern Architectures and Medical Imaging Data \
