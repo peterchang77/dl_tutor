@@ -48,7 +48,7 @@ Week 11: Finals
 
 Week 1: Linear Regression ([tutorial](https://bit.ly/3lYpcXr), [assignment](https://bit.ly/3cvCpUt)) \
 Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3cRFLkF), [assignment](https://bit.ly/3rU8xWd)) \
-Week 3: Convolutional Neural Network (CIFAR-10) \
+Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/2QllhYF), [assignment](https://bit.ly/3tpo01S)) \
 Week 4: Series Identification \
 Week 5: Tumor Segmentation \
 Week 6: Midterm Project \
