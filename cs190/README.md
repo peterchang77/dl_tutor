@@ -35,7 +35,8 @@ Week 2: Neural Networks and Optimization
 * Lecture 04: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=260412&node=10094950&a=354774857&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2897710&node=10097735&a=1743114569&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=2897714&node=10097742&a=1514700564&autoplay=1)
 
 Week 3: Convolutional Neural Networks
-* Lecture 05: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=262859&node=10139225&a=204535093&autoplay=1)
+* Lecture 05: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=262859&node=10139225&a=204535093&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2920873&node=10144353&a=2028042745&autoplay=1)
+* Lecture 06: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=264497&node=10172860&a=1183539416&autoplay=1)
 
 Week 4: Modern Architectures and Medical Imaging Data \
 Week 5: Considerations for Medical Image Segmentation \
