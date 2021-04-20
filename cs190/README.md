@@ -39,7 +39,7 @@ Week 3: Convolutional Neural Networks
 * Lecture 06: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=264497&node=10172860&a=1183539416&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2933067&node=10175335&a=2080818821&autoplay=1), [tutoral](https://uci.yuja.com/V/Video?v=2933080&node=10175354&a=1684610093&autoplay=1)
 
 Week 4: Modern Architectures
-* Lecture 07: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=267815&node=10216866&a=1573155744&autoplay=1)
+* Lecture 07: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=267815&node=10216866&a=1573155744&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2957486&node=10219571&a=53572744&autoplay=1)
 
 Week 5: Considerations for Medical Image Segmentation \
 Week 6: Manuscript Preparation and Statistics \
@@ -54,7 +54,7 @@ Week 11: Finals
 Week 1: Linear Regression ([tutorial](https://bit.ly/3lYpcXr), [assignment](https://bit.ly/3cvCpUt)) \
 Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3cRFLkF), [assignment](https://bit.ly/3rU8xWd)) \
 Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/2QllhYF), [assignment](https://bit.ly/3tpo01S)) \
-Week 4: Series Identification \
+Week 4: Tumor Detection ([tutorial](https://bit.ly/32uXPvd), [assignment](https://bit.ly/3n2j9BE)) \
 Week 5: Tumor Segmentation \
 Week 6: Midterm Project \
 Week 7: Box Localization \
