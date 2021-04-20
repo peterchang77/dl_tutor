@@ -34,8 +34,13 @@ Week 2: Neural Networks and Optimization
 * Lecture 03: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=259289&node=10068905&a=1957133278&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2885701&node=10072299&a=1656843959&autoplay=1)
 * Lecture 04: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=260412&node=10094950&a=354774857&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2897710&node=10097735&a=1743114569&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=2897714&node=10097742&a=1514700564&autoplay=1)
 
-Week 3: Convolutional Neural Networks \
-Week 4: Modern Architectures and Medical Imaging Data \
+Week 3: Convolutional Neural Networks
+* Lecture 05: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=262859&node=10139225&a=204535093&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2920873&node=10144353&a=2028042745&autoplay=1)
+* Lecture 06: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=264497&node=10172860&a=1183539416&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2933067&node=10175335&a=2080818821&autoplay=1), [tutoral](https://uci.yuja.com/V/Video?v=2933080&node=10175354&a=1684610093&autoplay=1)
+
+Week 4: Modern Architectures
+* Lecture 07: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=267815&node=10216866&a=1573155744&autoplay=1)
+
 Week 5: Considerations for Medical Image Segmentation \
 Week 6: Manuscript Preparation and Statistics \
 Week 7: Considerations for Medical Object Localization \
