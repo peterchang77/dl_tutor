@@ -40,9 +40,11 @@ Week 3: Convolutional Neural Networks
 
 Week 4: Modern Architectures
 * Lecture 07: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=270176&node=10243991&a=1513479720&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2957486&node=10219571&a=53572744&autoplay=1)
-* Lecture 08: slides (same as Lecture 07)
+* Lecture 08: slides (same as Lecture 07); [video](https://uci.yuja.com/V/Video?v=2971905&node=10246097&a=268657664&autoplay=1), [tutorial](https://uci.yuja.com/V/Video?v=2971915&node=10246107&a=690628182&autoplay=1)
 
-Week 5: Considerations for Medical Image Segmentation \
+Week 5: Considerations for Medical Image Segmentation
+* Lecture 09: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=273366&node=10297264&a=1280246079&autoplay=1)
+
 Week 6: Manuscript Preparation and Statistics \
 Week 7: Considerations for Medical Object Localization \
 Week 8: Class Imbalance \
