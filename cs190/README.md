@@ -56,7 +56,7 @@ Week 1: Linear Regression ([tutorial](https://bit.ly/3lYpcXr), [assignment](http
 Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3cRFLkF), [assignment](https://bit.ly/3rU8xWd)) \
 Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/2QllhYF), [assignment](https://bit.ly/3tpo01S)) \
 Week 4: Tumor Detection ([tutorial](https://bit.ly/32uXPvd), [assignment](https://bit.ly/3n2j9BE)) \
-Week 5: Tumor Segmentation \
+Week 5: Tumor Segmentation ([tutorial](https://bit.ly/3gMhfDY), [assignment](https://bit.ly/2QzKcbD)) \
 Week 6: Midterm Project \
 Week 7: Box Localization \
 Week 8: Small Lesion Segmentation \
