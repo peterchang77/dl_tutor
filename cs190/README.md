@@ -44,7 +44,7 @@ Week 4: Modern Architectures
 
 Week 5: Considerations for Medical Image Segmentation
 * Lecture 09: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=274639&node=10326728&a=1662995549&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2996320&node=10299340&a=330045662&autoplay=1)
-* Lecture 10: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=274640&node=10326729&a=1910254257&autoplay=1)
+* Lecture 10: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=274640&node=10326729&a=1910254257&autoplay=1); [video #1](https://uci.yuja.com/V/Video?v=3009369&node=10332245&a=610669657&autoplay=1), [video #2](https://uci.yuja.com/V/Video?v=3009375&node=10332252&a=1948448737&autoplay=1); [tutorial](https://uci.yuja.com/V/Video?v=3009380&node=10332261&a=112903918&autoplay=1)
 
 Week 6: Manuscript Preparation and Statistics \
 Week 7: Considerations for Medical Object Localization \
@@ -60,7 +60,7 @@ Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3cRFLkF), [
 Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/2QllhYF), [assignment](https://bit.ly/3tpo01S)) \
 Week 4: Tumor Detection ([tutorial](https://bit.ly/32uXPvd), [assignment](https://bit.ly/3n2j9BE)) \
 Week 5: Tumor Segmentation ([tutorial](https://bit.ly/3gMhfDY), [assignment](https://bit.ly/2QzKcbD)) \
-Week 6: Midterm Project \
+Week 6: Midterm Project ([tutorial](https://bit.ly/3vxvf8K), [assignment](https://bit.ly/2QPw5z3)) \
 Week 7: Box Localization \
 Week 8: Small Lesion Segmentation \
 Week 9: Survival Prediction \
