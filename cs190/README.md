@@ -46,7 +46,9 @@ Week 5: Considerations for Medical Image Segmentation
 * Lecture 09: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=274639&node=10326728&a=1662995549&autoplay=1); [video](https://uci.yuja.com/V/Video?v=2996320&node=10299340&a=330045662&autoplay=1)
 * Lecture 10: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=274640&node=10326729&a=1910254257&autoplay=1); [video #1](https://uci.yuja.com/V/Video?v=3009369&node=10332245&a=610669657&autoplay=1), [video #2](https://uci.yuja.com/V/Video?v=3009375&node=10332252&a=1948448737&autoplay=1); [tutorial](https://uci.yuja.com/V/Video?v=3009380&node=10332261&a=112903918&autoplay=1)
 
-Week 6: Manuscript Preparation and Statistics \
+Week 6: Manuscript Preparation and Statistics
+* Lecture 11: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=277984&node=10379173&a=650309459&autoplay=1)
+
 Week 7: Considerations for Medical Object Localization \
 Week 8: Class Imbalance \
 Week 9: Unsupervised and Semi-supervised Learning \
