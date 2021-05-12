@@ -65,7 +65,7 @@ Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/2Qllh
 Week 4: Tumor Detection ([tutorial](https://bit.ly/32uXPvd), [assignment](https://bit.ly/3n2j9BE)) \
 Week 5: Tumor Segmentation ([tutorial](https://bit.ly/3gMhfDY), [assignment](https://bit.ly/2QzKcbD)) \
 Week 6: Midterm Project ([tutorial](https://bit.ly/3vxvf8K), [assignment](https://bit.ly/2QPw5z3)) \
-Week 7: Box Localization \
+Week 7: Box Localization ([tutorial](https://bit.ly/3hmH3Hk), [assignment](https://bit.ly/3w2qvZe)) \
 Week 8: Small Lesion Segmentation \
 Week 9: Survival Prediction \
 Week 10: None \
