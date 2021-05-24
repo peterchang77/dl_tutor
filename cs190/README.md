@@ -54,10 +54,12 @@ Week 7: Considerations for Medical Object Localization
 * Lecture 14: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=286621&node=10473892&a=1805992051&autoplay=1); [video](https://uci.yuja.com/V/Video?v=3079166&node=10475043&a=1082811782&autoplay=1)
 
 Week 8: Class Imbalance 
-* Lecture 15: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=289890&node=10510682&a=1341437932&autoplay=1)
-* Lecture 16: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=291389&node=10569255&a=1862564470&autoplay=1)
+* Lecture 15: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=289890&node=10510682&a=1341437932&autoplay=1); [video](https://uci.yuja.com/V/Video?v=3093800&node=10512753&a=526311490&autoplay=1)
+* Lecture 16: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=291389&node=10569255&a=1862564470&autoplay=1); [video](https://uci.yuja.com/V/Video?v=3129472&node=10571392&a=629057140&autoplay=1); [tutorial](https://bit.ly/3f0B8G8)
 
-Week 9: Unsupervised and Semi-supervised Learning \
+Week 9: Unsupervised and Semi-supervised Learning
+* Lecture 17: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=293147&node=10607490&a=4407864&autoplay=1)
+
 Week 10: FDA Regulations and Deployment \
 Week 11: Finals
 
