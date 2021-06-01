@@ -75,4 +75,4 @@ Week 7: Box Localization ([tutorial](https://bit.ly/3hmH3Hk), [assignment](https
 Week 8: Small Lesion Segmentation ([tutorial](https://bit.ly/3f0B8G8), [assignment](https://bit.ly/3oxa7x7)) \
 Week 9: Survival Prediction ([tutorial](https://bit.ly/3fnXFwR), [assignment](https://bit.ly/3vr47IS)) \
 Week 10: None \
-Week 11: Final Project 
+Week 11: Final Project  ([tutorial](https://bit.ly/3pcOBOD), [assignment](https://bit.ly/34zw2uy))
