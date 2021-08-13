@@ -1,4 +1,4 @@
-# Cancer Systems Biology - AI Worksohp | 2021
+# Cancer Systems Biology - AI Workshop | 2021
 
 Over the past several years, deep learning neural networks have become increasingly pervasive within healthcare. This hands-on workshop is designed as an introductory primer for researchers who are motivated to learn the technical skills for building deep learning models but who have minimal if any previous knowledge. 
 
