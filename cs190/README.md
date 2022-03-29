@@ -21,28 +21,28 @@ For archived materials from previous quarters:
 
 *Classes*
 
-Week 1: Introduction to Machine Learning and Tensorflow 2 
-Week 2: Neural Networks and Optimization 
-Week 3: Convolutional Neural Networks
-Week 4: Modern Architectures
-Week 5: Considerations for Medical Image Segmentation
-Week 6: Manuscript Preparation and Statistics
-Week 7: Considerations for Medical Object Localization
-Week 8: Class Imbalance 
-Week 9: Unsupervised and Semi-supervised Learning
-Week 10: FDA Regulations and Deployment 
+Week 1: Introduction to Machine Learning and Tensorflow 2 \
+Week 2: Neural Networks and Optimization \
+Week 3: Convolutional Neural Networks \
+Week 4: Modern Architectures \
+Week 5: Considerations for Medical Image Segmentation \
+Week 6: Manuscript Preparation and Statistics \
+Week 7: Considerations for Medical Object Localization \
+Week 8: Class Imbalance \
+Week 9: Unsupervised and Semi-supervised Learning \
+Week 10: FDA Regulations and Deployment \
 Week 11: Finals
 
 *Assignments*
 
-Week 1: Linear Regression 
-Week 2: Linear Classifier and MLP (MNIST)
-Week 3: Convolutional Neural Network (CIFAR-10)
-Week 4: Kidney Detection
-Week 5: Kidney Segmentation
-Week 6: Midterm Project
-Week 7: Box Localization
-Week 8: Tumor Segmentation 
-Week 9: Disease Characterization 
-Week 10: None
+Week 1: Linear Regression \
+Week 2: Linear Classifier and MLP (MNIST) \
+Week 3: Convolutional Neural Network (CIFAR-10) \
+Week 4: Kidney Detection \
+Week 5: Kidney Segmentation \
+Week 6: Midterm Project \
+Week 7: Box Localization \
+Week 8: Tumor Segmentation \
+Week 9: Disease Characterization\
+Week 10: None \
 Week 11: Final Project
