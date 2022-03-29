@@ -21,7 +21,7 @@ For archived materials from previous quarters:
 
 *Classes*
 
-Week 1: Introduction to Machine Learning and Tensorflow 2.1 
+Week 1: Introduction to Machine Learning and Tensorflow 2 
 Week 2: Neural Networks and Optimization 
 Week 3: Convolutional Neural Networks
 Week 4: Modern Architectures
@@ -30,16 +30,7 @@ Week 6: Manuscript Preparation and Statistics
 Week 7: Considerations for Medical Object Localization
 Week 8: Class Imbalance 
 Week 9: Unsupervised and Semi-supervised Learning
-<<<<<<< HEAD
-Week 10: FDA Regulations and Deployment
-=======
-* Lecture 17: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=293147&node=10607490&a=4407864&autoplay=1); [video](https://uci.yuja.com/V/Video?v=3139283&node=10608641&a=743214507&autoplay=1)
-* Lecture 18: slides (same as Lecture 17); [video](https://uci.yuja.com/V/Video?v=3145833&node=10658125&a=2086059933&autoplay=1); [tutorial](https://uci.yuja.com/V/Video?v=3145829&node=10658114&a=694386825&autoplay=1)
-
 Week 10: FDA Regulations and Deployment 
-* Lecture 19: None (Memorial Day Holiday)
-* Lecture 20: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=295848&node=10717374&a=170060179&autoplay=1)
->>>>>>> ab3210df74ae84c143e17c3c970bb9a9ed2d2969
 Week 11: Finals
 
 *Assignments*
