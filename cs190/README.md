@@ -8,8 +8,8 @@ All software used in this coursework is open-source and freely available. Assign
 
 ## Schedule
 
-**Dates**: Tuesdays and Thursdays 
-**Time**: 12:30 to 1:50 PM PST 
+**Dates**: Tuesdays and Thursdays \
+**Time**: 12:30 to 1:50 PM PST \
 **Location**: ICS building room 174
 
 **Note:** Links below for videos will populate over the course of the spring 2022 quarter. 
