@@ -27,7 +27,7 @@ Week 1: Introduction to Machine Learning and Tensorflow 2
 
 Week 2: Neural Networks and Optimization
 * Lecture 03: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=422769&node=15614022&a=772764963&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4691740&node=15614663&a=1711528466&autoplay=1)
-* Lecture 04: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=423582&node=15701100&a=2128242597&autoplay=1)
+* Lecture 04: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=423607&node=15702038&a=1844633634&autoplay=1)
 
 Week 3: Convolutional Neural Networks \
 Week 4: Modern Architectures \
