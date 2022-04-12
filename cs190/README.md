@@ -59,24 +59,24 @@ Week 11: Final Project
 
 This quarter, the instructor will host office hours via Zoom every Friday at 1 PM. 
 
-**Dates**: Fridays 
-**Time**: 1:00 PM PST
+**Dates**: Fridays \
+**Time**: 1:00 PM PST \
 **Link**: https://ucihealth.zoom.us/j/93394557811?pwd=bndTSFV0ZEdLcFZrZXMvR2dPbDRVZz09
 
 *Note*: Occasionally, I will need to be in the hospital at this time or have other conflicts, and if so I will announce alternate office hours later in the week. If you cannot make this time and/or prefer in-person options, let me know and we can make arrangements.
 
-### TA Office Hours
+#### TA Office Hours
 
 Additionally, the TA will host office hours in-person every Monday from 10 AM to noon. 
 
-**Dates**: Mondays 
-**Time**: 10:00 AM to noon
-**Location**: Calit2 Suite 4500 (CAIDM lab) 
+**Dates**: Mondays \
+**Time**: 10:00 AM to noon \
+**Location**: Calit2 Suite 4500 (CAIDM lab) \
 
 ## Lab Meetings
 
 For students interested in learning more and/or participating in research, please join our biweekly lab meetings via Zoom:
 
-**Dates**: Thursdays
-**Time**: 7:00 to 8:00 PM PST
+**Dates**: Thursdays \
+**Time**: 7:00 to 8:00 PM PST \
 **Link**: https://ucihealth.zoom.us/j/93394557811?pwd=bndTSFV0ZEdLcFZrZXMvR2dPbDRVZz09
