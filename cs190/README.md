@@ -55,7 +55,7 @@ Week 9: Disease Characterization\
 Week 10: None \
 Week 11: Final Project
 
-*Office Hours*
+## Office Hours
 
 This quarter, the instructor will host office hours via Zoom every Friday at 1 PM. 
 
@@ -73,7 +73,7 @@ Additionally, the TA will host office hours in-person every Monday from 10 AM to
 **Time**: 10:00 AM to noon
 **Location**: Calit2 Suite 4500 (CAIDM lab) 
 
-*Lab Meetings*
+## Lab Meetings
 
 For students interested in learning more and/or participating in research, please join our biweekly lab meetings via Zoom:
 
