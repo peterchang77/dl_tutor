@@ -71,7 +71,7 @@ Additionally, the TA will host office hours in-person every Monday from 10 AM to
 
 **Dates**: Mondays \
 **Time**: 10:00 AM to noon \
-**Location**: Calit2 Suite 4500 (CAIDM lab) \
+**Location**: Calit2 Suite 4500 (CAIDM lab)
 
 ## Lab Meetings
 
