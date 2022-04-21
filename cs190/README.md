@@ -50,7 +50,7 @@ Week 11: Finals
 Week 1: Linear Regression ([tutorial](https://bit.ly/3x7l1Af), [assignment](https://bit.ly/3INozcY)) \
 Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3uhPqd2), [assignment](https://bit.ly/35T2KLG)) \
 Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/3M4g2V8), [assignment](https://bit.ly/3JMUZVo)) \
-Week 4: Kidney Detection \
+Week 4: Kidney Detection ([tutorial](https://bit.ly/3rHo9zd), [assignment](https://bit.ly/3K3AVOE)) \
 Week 5: Kidney Segmentation \
 Week 6: Midterm Project \
 Week 7: Box Localization \
