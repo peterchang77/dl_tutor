@@ -52,7 +52,7 @@ Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3uhPqd2), [
 Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/3M4g2V8), [assignment](https://bit.ly/3JMUZVo)) \
 Week 4: Kidney Detection ([tutorial](https://bit.ly/3rHo9zd), [assignment](https://bit.ly/3K3AVOE)) \
 Week 5: Kidney Segmentation ([tutorial](https://bit.ly/3vonSTL)) \
-Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd))
+Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd)) \
 Week 7: Box Localization \
 Week 8: Tumor Segmentation \
 Week 9: Disease Characterization\
