@@ -37,7 +37,9 @@ Week 4: Modern Architectures
 * Lecture 07: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=429317&node=15967086&a=1254864153&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4818838&node=15941282&a=485543330&autoplay=1)
 * Lecture 08: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=429317&node=15967086&a=1254864153&autoplay=1)
 
-Week 5: Considerations for Medical Image Segmentation \
+Week 5: Considerations for Medical Image Segmentation
+* Lecture 09: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=432175&node=16039332&a=1383631598&autoplay=1)
+
 Week 6: Manuscript Preparation and Statistics \
 Week 7: Considerations for Medical Object Localization \
 Week 8: Class Imbalance \
