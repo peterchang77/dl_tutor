@@ -35,10 +35,10 @@ Week 3: Convolutional Neural Networks
 
 Week 4: Modern Architectures
 * Lecture 07: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=429317&node=15967086&a=1254864153&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4818838&node=15941282&a=485543330&autoplay=1)
-* Lecture 08: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=429317&node=15967086&a=1254864153&autoplay=1)
+* Lecture 08: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=429317&node=15967086&a=1254864153&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4829963&node=15969834&a=383814264&autoplay=1)
 
 Week 5: Considerations for Medical Image Segmentation
-* Lecture 09: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=432175&node=16039332&a=1383631598&autoplay=1)
+* Lecture 09: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=432175&node=16039332&a=1383631598&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4859236&node=16041953&a=1382478908&autoplay=1)
 
 Week 6: Manuscript Preparation and Statistics \
 Week 7: Considerations for Medical Object Localization \
@@ -53,8 +53,8 @@ Week 1: Linear Regression ([tutorial](https://bit.ly/3x7l1Af), [assignment](http
 Week 2: Linear Classifier and MLP (MNIST) ([tutorial](https://bit.ly/3uhPqd2), [assignment](https://bit.ly/35T2KLG)) \
 Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/3M4g2V8), [assignment](https://bit.ly/3JMUZVo)) \
 Week 4: Kidney Detection ([tutorial](https://bit.ly/3rHo9zd), [assignment](https://bit.ly/3K3AVOE)) \
-Week 5: Kidney Segmentation ([tutorial](https://bit.ly/3vonSTL)) \
-Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd)) \
+Week 5: Kidney Segmentation ([tutorial](https://bit.ly/3vonSTL), [assignment](https://bit.ly/3FcfAlo)) \
+Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd), [assignment](https://bit.ly/3sa3dRn)) \
 Week 7: Box Localization \
 Week 8: Tumor Segmentation \
 Week 9: Disease Characterization\
