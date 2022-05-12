@@ -60,7 +60,7 @@ Week 3: Convolutional Neural Network (CIFAR-10) ([tutorial](https://bit.ly/3M4g2
 Week 4: Kidney Detection ([tutorial](https://bit.ly/3rHo9zd), [assignment](https://bit.ly/3K3AVOE)) \
 Week 5: Kidney Segmentation ([tutorial](https://bit.ly/3vonSTL), [assignment](https://bit.ly/3FcfAlo)) \
 Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd), [assignment](https://bit.ly/3sa3dRn)) \
-Week 7: Box Localization \
+Week 7: Box Localization ([tutorial](https://bit.ly/3w7YiCV), [assignment](https://bit.ly/3w6u439)) \
 Week 8: Tumor Segmentation \
 Week 9: Disease Characterization\
 Week 10: None \
