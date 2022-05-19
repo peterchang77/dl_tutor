@@ -49,7 +49,7 @@ Week 7: Considerations for Medical Object Localization
 * Lecture 14: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=438771&node=16262704&a=68840634&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4959616&node=16264910&a=644079415&autoplay=1)
 
 Week 8: Class Imbalance 
-* Lecture 15: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=440692&node=16389449&a=1238693776&autoplay=1)
+* Lecture 15: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=440692&node=16389449&a=1238693776&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4988505&node=16389914&a=8377442&autoplay=1)
 
 Week 9: Unsupervised and Semi-supervised Learning \
 Week 10: FDA Regulations and Deployment \
@@ -64,7 +64,7 @@ Week 4: Kidney Detection ([tutorial](https://bit.ly/3rHo9zd), [assignment](https
 Week 5: Kidney Segmentation ([tutorial](https://bit.ly/3vonSTL), [assignment](https://bit.ly/3FcfAlo)) \
 Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd), [assignment](https://bit.ly/3sa3dRn)) \
 Week 7: Box Localization ([tutorial](https://bit.ly/3w7YiCV), [assignment](https://bit.ly/3w6u439)) \
-Week 8: Tumor Segmentation \
+Week 8: Tumor Segmentation ([tutorial](https://bit.ly/383xryS), [assignment](https://bit.ly/3wvoUOk)) \
 Week 9: Disease Characterization\
 Week 10: None \
 Week 11: Final Project
