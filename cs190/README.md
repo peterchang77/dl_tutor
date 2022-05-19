@@ -46,9 +46,11 @@ Week 6: Manuscript Preparation and Statistics
 
 Week 7: Considerations for Medical Object Localization
 * Lecture 13: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=437539&node=16227884&a=1039868477&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4951907&node=16228661&a=147843224&autoplay=1)
-* Lecture 14: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=438771&node=16262704&a=68840634&autoplay=1)
+* Lecture 14: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=438771&node=16262704&a=68840634&autoplay=1), [video](https://uci.yuja.com/V/Video?v=4959616&node=16264910&a=644079415&autoplay=1)
 
-Week 8: Class Imbalance \
+Week 8: Class Imbalance 
+* Lecture 15: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=440692&node=16389449&a=1238693776&autoplay=1)
+
 Week 9: Unsupervised and Semi-supervised Learning \
 Week 10: FDA Regulations and Deployment \
 Week 11: Finals
