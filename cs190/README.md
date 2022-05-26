@@ -68,7 +68,7 @@ Week 5: Kidney Segmentation ([tutorial](https://bit.ly/3vonSTL), [assignment](ht
 Week 6: Midterm Project ([tutorial](https://bit.ly/3LqhhOd), [assignment](https://bit.ly/3sa3dRn)) \
 Week 7: Box Localization ([tutorial](https://bit.ly/3w7YiCV), [assignment](https://bit.ly/3w6u439)) \
 Week 8: Tumor Segmentation ([tutorial](https://bit.ly/383xryS), [assignment](https://bit.ly/3wvoUOk)) \
-Week 9: Disease Characterization\
+Week 9: Deep Clustering ([tutorial](https://bit.ly/38LoPNO), [assignment](https://bit.ly/3lNmnZO))\
 Week 10: None \
 Week 11: Final Project
 
