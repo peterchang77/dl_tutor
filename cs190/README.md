@@ -54,6 +54,7 @@ Week 8: Class Imbalance
 
 Week 9: Unsupervised and Semi-supervised Learning 
 * Lecture 17: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=442373&node=17129893&a=1136247976&autoplay=1), [video](https://uci.yuja.com/V/Video?v=5004947&node=17130195&a=2058147193&autoplay=1)
+* Lecture 18: [slides](https://uci.yuja.com/V/MediaFile?mediaFile=442373&node=17129893&a=1136247976&autoplay=1), [video](https://uci.yuja.com/V/Video?v=5021988&node=17187264&a=1381122233&autoplay=1)
 
 Week 10: FDA Regulations and Deployment \
 Week 11: Finals
