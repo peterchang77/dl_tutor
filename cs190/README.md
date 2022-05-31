@@ -71,7 +71,7 @@ Week 7: Box Localization ([tutorial](https://bit.ly/3w7YiCV), [assignment](https
 Week 8: Tumor Segmentation ([tutorial](https://bit.ly/383xryS), [assignment](https://bit.ly/3wvoUOk)) \
 Week 9: Deep Clustering ([tutorial](https://bit.ly/38LoPNO), [assignment](https://bit.ly/3lNmnZO))\
 Week 10: None \
-Week 11: Final Project
+Week 11: Final Project ([tutorial](https://bit.ly/3NQIwCJ), [assignment](https://bit.ly/3z7uqbO))
 
 ## Office Hours
 
