@@ -18,6 +18,7 @@ All raw code and notebooks used for these tutorials are availabe within this rep
 * Building a multilayer perceptron for digit recognition on MNIST data [Google Colab link](https://bit.ly/3c1vWgP)
 * CNN classification algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2D9ZBrX)
 * CNN segmentation algorithm for pneumonia detection on CXR: [Google Colab link](https://bit.ly/2VQMWk9)
+* Hyperparameter Tuning: [Google Colab link](https://bit.ly/3Uh6qdk)
 * Grad-CAM for pneumonia detection on CXR: [Google Colab link](https://bit.ly/3zblMcw)
 
 Note these tutorials represent abbreviated educational material that provide a focused overview of key concepts. If you are interested, a full 10-week curriculum targeted towards upper-level undergraduate or graduate-level CS students is available online (no cost) at this [link](../cs190/README.md).
