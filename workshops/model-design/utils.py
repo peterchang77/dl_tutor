@@ -87,7 +87,10 @@ class DataTransformer(layers.Layer):
         """
         super(DataTransformer, self).__init__()
         self.gen = tf.random.Generator.from_seed(seed=seed) if gen is None else gen
-        self.R = None
+        
+        # --- Prepare resampler
+        self.R_2d = ResamplerND(dims=2)
+        self.R_3d = ResamplerND(dims=3)
 
         # --- Save hyperparameters
         self.resampled_shape = resampled_shape
@@ -602,7 +605,7 @@ class DataTransformer(layers.Layer):
         # --- Prepare resampler
         if X.shape[1] == 1:
 
-            self.R = ResamplerND(dims=2)
+            self.R = self.R_2d
 
             # --- Apply resampler
             if type(x) is not dict:
@@ -619,7 +622,7 @@ class DataTransformer(layers.Layer):
 
         else:
 
-            self.R = ResamplerND(dims=3)
+            self.R = self.R_3d
 
             # --- Apply resampler 
             if type(x) is not dict: 
