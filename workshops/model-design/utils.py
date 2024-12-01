@@ -2,6 +2,12 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras import layers, Input
 
+class Shape(layers.Layer):
+    
+    def call(self, x):
+        
+        return tf.shape(x)
+
 class DataTransformer(layers.Layer):
 
     def __init__(self, 
@@ -130,7 +136,7 @@ class DataTransformer(layers.Layer):
             return self.resampled_shape
 
         if None in x.shape[1:-1]:
-            return tf.shape(x)[1:-1]
+            return Shape()(x)[1:-1]
         else:
             return [s for s in x.shape[1:-1]]
 
@@ -316,14 +322,14 @@ class DataTransformer(layers.Layer):
 
             # --- STEP 1: Define patch shape ==> rescale affine_fov 
             ZEROES = tf.zeros((self.batch_size_full, 1, 1), dtype=tf.float32) if self.batch_size_full is not None else \
-                     tf.zeros((tf.shape(X)[0], 1, 1), dtype=tf.float32)
+                     tf.zeros((Shape()(X)[0], 1, 1), dtype=tf.float32)
             a0 = np.array([1, 0, 0]).reshape(1, 1, 3) + ZEROES 
             a1 = np.array([0, 1, 0]).reshape(1, 1, 3) + ZEROES 
             a2 = np.array([0, 0, 1]).reshape(1, 1, 3) + ZEROES 
 
             # --- Assume same as full volume
             if self.resampled_shape is not None:
-                scale = tf.cast(tf.shape(X)[1:4] / self.resampled_shape, tf.float32)
+                scale = tf.cast(Shape()(X)[1:4] / self.resampled_shape, tf.float32)
                 a0 = a0 * scale[0]
                 a1 = a1 * scale[1]
                 a2 = a2 * scale[2]
@@ -474,7 +480,7 @@ class DataTransformer(layers.Layer):
 
         return tf.tile(x, multiples=multiples)
 
-    def normalize(self, x, b=0, training=None, norms=None, **kwargs):
+    def normalize(self, x, b=0, training=False, norms=None, **kwargs):
         """
         Method to apply intensity normalization
 
@@ -515,14 +521,14 @@ class DataTransformer(layers.Layer):
             shift = float(self.norm_shift)
 
         if (self.rand_scale is not None) and training:
-            rand_scale = self.rand((tf.shape(x)[0], 1, 1, 1, 1),
+            rand_scale = self.rand((Shape()(x)[0], 1, 1, 1, 1),
                 minval=self.rand_scale[0],
                 maxval=self.rand_scale[1], dtype=tf.float32)
         else:
             rand_scale = 1
 
         if (self.rand_shift is not None) and training:
-            rand_shift = self.rand((tf.shape(x)[0], 1, 1, 1, 1),
+            rand_shift = self.rand((Shape()(x)[0], 1, 1, 1, 1),
                 minval=self.rand_shift[0],
                 maxval=self.rand_shift[1], dtype=tf.float32)
         else:
@@ -586,7 +592,7 @@ class DataTransformer(layers.Layer):
         coords = tf.cast(tf.expand_dims(coords, axis=0), X.dtype) + tf.zeros_like(X[:, :1, :1, :1, :1])
 
         # --- Create affine
-        affine_aug = self.rand_affine(shape=tf.shape(X), **kwargs)
+        affine_aug = self.rand_affine(shape=Shape()(X), **kwargs)
         if affine_aug.shape[0] == 1:
             affine_aug = affine_aug + tf.zeros_like(X[:, :1, :1, 0, 0])
 
@@ -630,7 +636,7 @@ class DataTransformer(layers.Layer):
         if coords.shape[-1] == 3:
             coords = tf.concat((coords, tf.ones_like(coords[..., :1])), axis=-1)
 
-        shape = tf.shape(coords)[1:-1]
+        shape = Shape()(coords)[1:-1]
         ZEROES = tf.zeros_like(affine_aug[:, :1, :1])
 
         # --- Step 1: seed 
@@ -664,13 +670,13 @@ class DataTransformer(layers.Layer):
         affine_cmb = tf.matmul(centers, affine_cmb)
         
         to_flat = layers.Reshape((-1, 4), dtype=coords.dtype)
-        to_norm = lambda x : tf.reshape(x, tf.shape(coords[..., :3]))
+        to_norm = lambda x : tf.reshape(x, Shape()(coords[..., :3]))
 
         coords = to_norm(tf.matmul(to_flat(coords), affine_cmb[:, :3], transpose_b=transpose_b))
 
         return coords, affine_cmb
 
-    def rand_affine(self, shape, training, **kwargs):
+    def rand_affine(self, shape, training=False, **kwargs):
 
         # --- Determine shapes
         batch_shape = shape[0]
